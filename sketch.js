@@ -43,7 +43,7 @@ Engine.run(engine);
 }
 
 
-function draw() {
+//function draw() {
   
   background(255);
   paperball.x=paper.body.position.x
